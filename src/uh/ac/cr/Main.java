@@ -3,7 +3,7 @@ import uh.ac.cr.iterativeControl.IterativeControl;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {     // call to class IterativeControl
         IterativeControl iterativeControl=new IterativeControl();
         iterativeControl.check();
 
